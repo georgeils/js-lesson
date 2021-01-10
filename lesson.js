@@ -135,3 +135,5 @@ const john = Object.create(soldier);
 console.log(john);
 
 john.sayHallo();
+
+console.log([] + 1 + 2);
